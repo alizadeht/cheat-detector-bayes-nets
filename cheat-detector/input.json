@@ -1,119 +1,119 @@
 {
     "pov | cgpa, attendance": {
         "(0-1, 0-25)": {
-            "less likely": 0.2
+            "less likely": 0.4
         },
         "(0-1, 26-50)": {
-            "less likely": 0.25
+            "less likely": 0.48
         },
         "(0-1, 51-75)": {
-            "likely": 0.28
+            "likely": 0.57
         },
         "(0-1, 76-100)": {
-            "likely": 0.32
+            "likely": 0.70
         },
         "(1-2, 0-25)": {
-            "likely": 0.30
+            "likely": 0.50
         },
         "(1-2, 26-50)": {
-            "most likely": 0.40
+            "most likely": 0.58
         },
         "(1-2, 51-75)": {
-            "most likely": 0.36
+            "most likely": 0.67
         },
         "(1-2, 76-100)": {
-            "most likely": 0.34
+            "most likely": 0.78
         },
         "(2-3, 0-25)": {
-            "most likely": 0.50
+            "most likely": 0.60
         },
         "(2-3, 26-50)": {
-            "most likely": 0.48
+            "most likely": 0.64
         },
         "(2-3, 51-75)": {
-            "likely": 0.44
+            "likely": 0.68
         },
         "(2-3, 76-100)": {
-            "likely": 0.40
+            "likely": 0.73
         },
         "(3-4, 0-25)": {
-            "likely": 0.35
+            "likely": 0.57
         },
         "(3-4, 26-50)": {
-            "likely": 0.3
+            "likely": 0.53
         },
         "(3-4, 51-75)": {
-            "less likely": 0.25
+            "less likely": 0.41
         },
         "(3-4, 76-100)": {
-            "less likely": 0.22
+            "less likely": 0.27
         }
     },
     "homework | hw_grade, hw_difficulty": {
         "(0-25, easy)": {
-            "poor": 0.20
+            "poor": 0.43
         },
         "(0-25, medium)": {
-            "poor": 0.25
+            "poor": 0.53
         },
         "(0-25, hard)": {
-            "poor": 0.3
+            "poor": 0.65
         },
         "(26-50, easy)": {
-            "poor": 0.22
+            "poor": 0.45
         },
         "(26-50, medium)": {
-            "poor": 0.30
+            "poor": 0.58
         },
         "(26-50, hard)": {
-            "adequate": 0.37
+            "adequate": 0.71
         },
         "(51-75, easy)": {
-            "adequate": 0.33
+            "adequate": 0.48
         },
         "(51-75, medium)": {
-            "adequate": 0.40
+            "adequate": 0.62
         },
         "(51-75, hard)": {
-            "satisfactory": 0.52
+            "satisfactory": 0.75
         },
         "(76-100, easy)": {
-            "satisfactory": 0.46
+            "satisfactory": 0.52
         },
         "(76-100, medium)": {
-            "satisfactory": 0.55
+            "satisfactory": 0.64
         },
         "(76-100, hard)": {
-            "satisfactory": 0.68
+            "satisfactory": 0.84
         }
     },
     "cheat | pov, homework": {
         "(less likely, poor)": {
-            "unlikely": 0.15
+            "unlikely": 0.31
         },
         "(less likely, adequate)": {
-            "unlikely": 0.2
+            "unlikely": 0.42
         },
         "(less likely, satisfactory)": {
-            "probable": 0.3
+            "probable": 0.53
         },
         "(likely, poor)": {
-            "unlikely": 0.2
+            "unlikely": 0.45
         },
         "(likely, adequate)": {
-            "probable": 0.28
+            "probable": 0.61
         },
         "(likely, satisfactory)": {
-            "highly probable": 0.36
+            "highly probable": 0.70
         },
         "(most likely, poor)": {
-            "probable": 0.32
+            "probable": 0.54
         },
         "(most likely, adequate)": {
-            "highly probable": 0.37
+            "highly probable": 0.72
         },
         "(most likely, satisfactory)": {
-            "highly probable": 0.45
+            "highly probable": 0.89
         }
     }
 }
